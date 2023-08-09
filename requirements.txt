@@ -1,0 +1,4 @@
+git+https://github.com/AlexanderMoreR/fbchat.git
+flask
+python-dotenv
+selenium
