@@ -14,6 +14,8 @@ clients = {}  # Diccionario para almacenar los objetos de cliente de cada bot
 error_messages = {}  # Diccionario para almacenar los mensajes de error de cada bot
 ua = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
 
+#COMENTARIO
+
 def start_bot(email, password):
     global bot_threads, listen_threads, bot_running, clients, error_messages
     try:
